@@ -1,5 +1,4 @@
-# Re: An	Industry Guide	 to 
-## Becoming a Software Engineer
+# Re: An Industry Guide to Becoming a Software Engineer
 
 ### Writing Code
 
