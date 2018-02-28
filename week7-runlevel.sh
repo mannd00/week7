@@ -5,3 +5,6 @@ echo "Your runlevel is: "
 
 who -r
 
+echo “Alternative method”
+
+runlevel 
