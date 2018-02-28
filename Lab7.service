@@ -1,1 +1,5 @@
 [Unit]
+Description= Lab7
+
+[Service]
+Type=simple
